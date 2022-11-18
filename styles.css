@@ -23,7 +23,7 @@ h1 {
   font-size: 3em;
 }
 
-h2 {
+h2,h3,h4,h5,h6 {
   font-family: 'Coda', cursive;
 }
 
@@ -49,3 +49,6 @@ button:hover {
   background: linear-gradient(#ffab23, #ffec64);
 }
               
+img {
+  width: 200px;
+}
