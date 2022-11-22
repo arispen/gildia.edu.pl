@@ -53,3 +53,7 @@ button:hover {
 img {
   width: 200px;
 }
+
+.avatar {
+  border-radius: 200px;
+}
