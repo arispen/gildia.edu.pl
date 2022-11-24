@@ -21,6 +21,7 @@ p,ul,ol {
 h1 {
   font-family: 'Nabla', cursive;
   font-size: 3em;
+  line-height: 0.75em;
 }
 
 h2,h3,h4,h5,h6 {
